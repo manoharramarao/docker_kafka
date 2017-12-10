@@ -1,0 +1,1 @@
+/tools/kafka_manager/kafka-manager-1.3.3.15/bin/kafka-manager -Dkafka-manager.zkhosts="localhost:2181" -Dhttp.port=9050
